@@ -1,0 +1,7 @@
+{
+  "name": "ts-discord-selfbot",
+  "readme": "./docs/readme.md",
+  "mode": "modules",
+  "excludeExternals": true,
+  "out": "./docs/public"
+}
