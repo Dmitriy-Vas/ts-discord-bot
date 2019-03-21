@@ -11,6 +11,9 @@ build/
 # IDE's configuration files
 .idea/
 
+# Project configuration files
+config.json
+
 # Runtime data
 pids
 *.pid
