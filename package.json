@@ -27,7 +27,8 @@
 		"tslint": "^5.9.1",
 		"tslint-eslint-rules": "^5.1.0",
 		"typedoc": "^0.14.2",
-		"typescript": "^2.8.1"
+		"typescript": "^2.8.1",
+		"lodash": "^4.17.11"
 	},
 	"dependencies": {
 		"discord.js": "^11.3.2"
