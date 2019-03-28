@@ -1,7 +1,7 @@
 {
-	"name": "ts-discord-selfbot",
+	"name": "ts-discord-bot",
 	"version": "1.0.1",
-	"description": "A console based discord selfbot built with Node.JS and TypeScript.",
+	"description": "A console based discord bot built with Node.JS and TypeScript.",
 	"main": "index.js",
 	"scripts": {
 		"serve": "gulp server",
