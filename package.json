@@ -12,6 +12,10 @@
 		"docs": "typedoc --options ./typedoc.json"
 	},
 	"author": "Dmitriy-Vas",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Dmitriy-Vas/ts-discord-bot"
+	},
 	"license": "MIT",
 	"devDependencies": {
 		"@types/debug": "0.0.30",
