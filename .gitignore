@@ -9,6 +9,9 @@ yarn-error.log*
 build/
 
 # IDE's configuration files
+*.iml
+*.iws
+*.ipr
 .idea/
 
 # Project configuration files
