@@ -3,7 +3,7 @@ A console based discord bot built with Node.JS and TypeScript.
 
 ## Contents
 
-+ [Install](#Usage)
++ [Install](#Install)
 + [Setup](#Setup)
 + [Run](#Run)
 
