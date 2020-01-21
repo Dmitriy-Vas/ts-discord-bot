@@ -1,6 +1,6 @@
 {
 	"name": "ts-discord-bot",
-  "version": "1.0.2",
+	"version": "1.0.2",
 	"description": "A console based discord bot built with Node.JS and TypeScript.",
 	"main": "index.js",
 	"scripts": {
@@ -12,17 +12,17 @@
 		"docs": "typedoc --options ./typedoc.json"
 	},
 	"author": "Dmitriy-Vas",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Dmitriy-Vas/ts-discord-bot"
-  },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Dmitriy-Vas/ts-discord-bot"
+	},
 	"license": "MIT",
 	"devDependencies": {
-      "@types/debug": "^4.1.4",
-      "@types/node": "^11.13.4",
+		"@types/debug": "^4.1.4",
+		"@types/node": "^11.13.4",
 		"debug": "^3.1.0",
 		"del": "^3.0.0",
-      "gulp": "^4.0.0",
+		"gulp": "^4.0.0",
 		"gulp-nodemon": "^2.2.1",
 		"gulp-sourcemaps": "^2.6.4",
 		"gulp-tslint": "^8.1.3",
@@ -30,8 +30,8 @@
 		"nodemon": "^1.17.3",
 		"tslint": "^5.9.1",
 		"tslint-eslint-rules": "^5.1.0",
-		"typedoc": "^0.14.2",
-      "typescript": "^2.8.1"
+		"typedoc": "^0.16.7",
+		"typescript": "^2.8.1"
 	},
 	"dependencies": {
 		"discord.js": "^11.3.2"
